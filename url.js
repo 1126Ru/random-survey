@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://www.masterhsiao.com.tw/IRP/IRP.php',
+	'https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=bVheFv/login?jstimes=1&loadingjs=1&o=dwebmge&ssoauth=1&cache=1690850843887',
+	'https://www.nstc.gov.tw/folksonomy/list/a4b16d30-0343-420d-93e7-ff2fa0daf62f?l=ch'
 ];
